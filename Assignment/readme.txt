@@ -1,0 +1,1 @@
+Let's open the index.html file in the browser and you will be able to play the game on turns
